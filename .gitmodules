@@ -1,0 +1,3 @@
+[submodule "SubModule2"]
+	path = SubModule2
+	url = git@github.com:lingyun14/SubModule2.git
